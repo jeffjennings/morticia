@@ -1,2 +1,1 @@
-# py_repo
-A generic template for a Python repository
+A pipeline to autonomously query, retrieve, post-process, and fit ALMA data
